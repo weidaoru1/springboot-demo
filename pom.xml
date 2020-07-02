@@ -44,7 +44,7 @@
         <dependency>
             <groupId>mysql</groupId>
             <artifactId>mysql-connector-java</artifactId>
-            <version>5.1.38</version>
+            <version>8.0.16</version>
         </dependency>
         <!--springboot热部署插件，修改代码后项目自动重启-->
         <dependency>
